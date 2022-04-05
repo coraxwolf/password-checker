@@ -1,0 +1,24 @@
+{
+  "name": "password-checker",
+  "version": "0.1.0",
+  "description": "Password Strength Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Password",
+    "Strenght",
+    "Checker",
+    "JavaScript"
+  ],
+  "author": "Jeremy Hawkins <coraxwolf@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
